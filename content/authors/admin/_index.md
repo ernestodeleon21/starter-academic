@@ -69,8 +69,20 @@ email: ""
 highlight_name: false
 ---
 
-I’m a political communication PhD candidate at the Institute of Communication and Media Studies at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by Prof Dr Silke Adam (supervisor) at the University of Bern, and Prof Dr Michaela Maier at the University of Koblenz-Landau. 
+I’m a PhD candidate in political communication at the Institute of Communication and Media Studies at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by Prof Dr Silke Adam (supervisor) at the University of Bern, and Prof Dr Michaela Maier at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
 
-My research focuses on political information flows in a digital age and its effects on political attitudes. To do so, I make use of computational social science methodologies to explore web behaviour, social media use, and conduct large-scale text analysis. 
+
+## Research
+
+
+My research focuses on political information flows in a digital age and its effects on political attitudes. To do so, I make use of computational social science methodologies to explore web behaviour, social media use, and conduct large-scale automated content analyses through text-as-data approaches. 
+
+I classify my research into three main branches:
+
+
+-	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I rearch what influences the difusion of news across social network sites, indetifying topics that are public favourites, analyzing the role played by emotions, as well as the impact elections have on changing patterns of political news sharing.
+- **Individual access to political information:** Here I combine survey and digital trace data to understand how people get to political information. This work speaks to the areas of media exposure measurement, and accurate classification of political and hyperpartisan content. 
+- **Effects of political news consumption:** Here I research how consumption of certain information impacts individual political attitudes, such as political trust. 
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -9,8 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 90
 
-title: Recent Publications
+title: Publications
 subtitle: ''
+
+
+
 
 content:
   # Page type to display. E.g. post, talk, publication...
