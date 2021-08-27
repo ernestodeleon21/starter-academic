@@ -1,3 +1,9 @@
++++
+
+active = false  # Activate this widget? true/false
+
++++
+
 ---
 # An instance of the Tag Cloud widget.
 # Docs: https://wowchemy.com/docs/page-builder/
