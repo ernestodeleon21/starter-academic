@@ -72,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-I’m a PhD candidate in political communication at the Institute of Communication and Media Studies at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by Prof Dr Silke Adam (supervisor) at the University of Bern, and Prof Dr Michaela Maier at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
+Hello! I’m a PhD candidate in political communication at the Institute of Communication and Media Studies at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by Prof Dr Silke Adam (supervisor) at the University of Bern, and Prof Dr Michaela Maier at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
 
 
 ## Research
