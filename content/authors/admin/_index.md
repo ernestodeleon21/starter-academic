@@ -78,14 +78,14 @@ Hello! I’m a PhD candidate in political communication at the Institute of Comm
 ## Research
 
 
-My research focuses on political information flows in a digital age and its effects on political attitudes. To do so, I make use of computational social science methodologies to explore web behaviour, social media use, and conduct large-scale automated content analyses through text-as-data approaches. 
+My research focuses on political information flows in a digital age and its effects on political attitudes. To do so, I make use of computational methodologies to explore web behaviour, social media use, and to conduct large-scale automated content analyses through text-as-data approaches. 
 
 I classify my research into three main branches:
 
 
--	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I rearch what influences the difusion of news across social network sites, indetifying topics that are public favourites, analyzing the role played by emotions, as well as the impact elections have on changing patterns of political news sharing.
-- **Individual access to political information:** Here I combine survey and digital trace data to understand how people get to political information. This work speaks to the areas of media exposure measurement, and accurate classification of political and hyperpartisan content. 
-- **Effects of political news consumption:** Here I research how consumption of certain information impacts individual political attitudes, such as political trust. 
+-	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I research what influences the difusion of political news across social network sites, addresing  the role played by emotions, as well as the impact elections have on changing patterns of news engagement.
+- **Individual access to political information:** Using a combination of survey and digital trace data, I aim to understand how people access political information. This work speaks to the areas of media exposure measurement, and accurate classification of political and hyperpartisan content. 
+- **Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1dKCWtiZRd7zyeoi3Ivm_VmPX5fZmBMa9/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
