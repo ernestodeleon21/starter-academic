@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Political Communication
+    institution: University of Bern
+    year: Ongoing
   - course: MSc in Political Science (research)
     institution: University of Amsterdam
     year: 2020
@@ -85,4 +88,4 @@ I classify my research into three main branches:
 - **Effects of political news consumption:** Here I research how consumption of certain information impacts individual political attitudes, such as political trust. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1dKCWtiZRd7zyeoi3Ivm_VmPX5fZmBMa9/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.

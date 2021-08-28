@@ -17,8 +17,8 @@ Abstract: "How do social media, political participation, news consumption and ca
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-02-08"
-date_end: "2021-07-03"
+date: "2021-02-22"
+date_end: "2021-05-31"
 all_day: true
 
 # Schedule page publish date (NOT talk date).
