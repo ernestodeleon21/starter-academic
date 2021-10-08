@@ -1,15 +1,20 @@
++++
+active = false  # Activate this widget? true/false
++++
 ---
+
 # An instance of the Featurette widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: featurette
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+
+#title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
