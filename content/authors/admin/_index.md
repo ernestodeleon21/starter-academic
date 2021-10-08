@@ -27,6 +27,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+  - course: PhD in Political Communication
+    institution: University of Bern
+    year: Ongoing
   - course: MSc in Political Science (research)
     institution: University of Amsterdam
     year: 2020
@@ -45,9 +48,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/edeleonw
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #icon_pack: fas
+  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/ernestodeleon21
@@ -69,8 +72,20 @@ email: ""
 highlight_name: false
 ---
 
-I’m a political communication PhD candidate at the Institute of Communication and Media Studies at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by Prof Dr Silke Adam (supervisor) at the University of Bern, and Prof Dr Michaela Maier at the University of Koblenz-Landau. 
+Hello! I’m a PhD candidate in political communication at the Institute of Communication and Media Studies at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by Prof Dr Silke Adam (supervisor) at the University of Bern, and Prof Dr Michaela Maier at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
 
-My research focuses on political information flows in a digital age and its effects on political attitudes. To do so, I make use of computational social science methodologies to explore web behaviour, social media use, and conduct large-scale text analysis. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+## Research
+
+
+My research focuses on political information flows in a digital age and its effects on political attitudes. To do so, I make use of computational methodologies to explore web behaviour, social media use, and to conduct large-scale automated content analyses through text-as-data approaches. 
+
+I classify my research into three main branches:
+
+
+-	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I research what influences the difusion of political news across social network sites, addresing  the role played by emotions, as well as the impact elections have on changing patterns of news engagement.
+- **Individual access to political information:** Using a combination of survey and digital trace data, I aim to understand how people access political information. This work speaks to the areas of media exposure measurement, and accurate classification of political and hyperpartisan content. 
+- **Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
+
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1dKCWtiZRd7zyeoi3Ivm_VmPX5fZmBMa9/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
