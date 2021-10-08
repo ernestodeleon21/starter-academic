@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-28T07:48:11.205236Z'
+publishDate: 'Forthcoming'
 publication_types:
 - '2'
 abstract: Patterns of news consumption are changing drastically. Citizens increasingly
@@ -48,5 +48,5 @@ abstract: Patterns of news consumption are changing drastically. Citizens increa
   gap between the news choices of journalists and consumers narrows, and that news
   sharing resembles a zero-sum game, with increased political news sharing leading
   to a decrease in the sharing of other news.
-publication: '*Under Review at Information, Communication, and Society*'
+publication: '*Information, Communication, and Society*'
 ---

@@ -46,5 +46,5 @@ abstract: The article examines news trajectories used by individuals to access m
   of specific modes of news access which, however, differs between the countries,
   thus emphasizing the importance of conducting more comparative research using tracking
   data.
-publication: '*Under Review at Social Science Computer Review*'
+publication: '*Under Review*'
 ---

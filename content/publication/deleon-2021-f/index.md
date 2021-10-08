@@ -44,5 +44,5 @@ abstract: 'Weberian research has often assumed that written immigration policies
   on the behaviour of ordinary officials and migrants at the local scale. Exploring
   the impact of micro-political factors on national immigration policies will require
   substantially improved dialogues between quantitative and qualitative research.'
-publication: '*Under Review at International Migration Review*'
+publication: '*Under Review*'
 ---

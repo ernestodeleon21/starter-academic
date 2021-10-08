@@ -44,5 +44,5 @@ abstract: Citizens increasingly rely on social media platforms to not only read 
   however, vary significantly by country. We also show that, overall, political news
   is shared more often than news publication patterns would suggest, proposing higher
   political interest by Facebook users than previously thought.
-publication: '*Under Review at Digital Journalism*'
+publication: '*Under Review*'
 ---

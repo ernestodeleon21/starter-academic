@@ -47,5 +47,5 @@ abstract: This study explores shifts in political trust during the COVID-19 pand
   Our findings highlight the differential effect that news consumption can have on
   public trust in government, contributing both to our understanding of media effects,
   and of public opinion during moments of crisis.
-publication: '*Under Review at the International Journal of Press/Politics*'
+publication: '*Under Review*'
 ---

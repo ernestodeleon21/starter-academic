@@ -43,5 +43,5 @@ abstract: Citizens on Social Network Sites are constantly exposed to news detail
   sentiment on emotions, and of a negativity bias in news sharing and engagement.
   The results also provide evidence for the existence of a novel sadness bias in the
   sharing and engagement of political news.
-publication: '*Under Review at Social Media and Society*'
+publication: '*Under Review*'
 ---
