@@ -48,5 +48,5 @@ abstract: Patterns of news consumption are changing drastically. Citizens increa
   gap between the news choices of journalists and consumers narrows, and that news
   sharing resembles a zero-sum game, with increased political news sharing leading
   to a decrease in the sharing of other news.
-publication: '*Information, Communication, and Society*'
+publication: '*Forthcoming in Information, Communication, and Society*'
 ---
