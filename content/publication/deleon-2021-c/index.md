@@ -10,7 +10,7 @@ authors:
 - Susan Vermeer
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-02-02'
 lastmod: 2021-08-28T09:48:10+02:00
 featured: false
 draft: false
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-28T07:48:10.127559Z'
+publishDate: '2021-04-28T07:48:10.127559Z'
 publication_types:
 - '2'
 abstract: Citizens increasingly rely on social media platforms to not only read but

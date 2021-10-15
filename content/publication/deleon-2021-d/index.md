@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Ernesto de León
 - Damian Trilling
-tags: []
+tags: [News Sharing]
 categories: []
-date: '2021-01-01'
+date: '2021-08-08'
 lastmod: 2021-08-28T09:48:11+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -33,5 +33,5 @@ publication_types:
 - '2'
 abstract: In this study we address the role of emotions in political news sharing on Facebook to better understand the complex relationship between journalism, emotions, and politics. Categorizing Facebook Reactions (particularly, the Sad, Angry, Love, and Wow Reactions) according to the discrete emotions model, we evaluate how positive vs negative political content relates to emotional responses, and how this consequentially influences the degree to which articles are shared across social media in the context of an election. We focus on the landmark 2018 Mexican elections to enable a nuanced conversation on how cues of user emotion predict the far-reaching dissemination of news articles on Facebook during a moment of heightened political attention. Our findings demonstrate a negativity bias in news sharing and engagement, showing an outsized prevalence of anger in response to political news. Additionally, we provide evidence of a novel sadness bias in the sharing of political coverage, suggesting that emotions considered as deactivating should be reevaluated in the context of social media.
  
-publication: 'Forthcoming in Social Media + Society'
+publication: '*Social Media + Society* (In Print)'
 ---

@@ -11,9 +11,9 @@ authors:
 - Damian Trilling
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-08-08'
 lastmod: 2021-08-28T09:48:11+02:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: 'Forthcoming'
+publishDate: '2021-08-28T09:48:11+02:00'
 publication_types:
 - '2'
 abstract: Patterns of news consumption are changing drastically. Citizens increasingly
@@ -48,5 +48,5 @@ abstract: Patterns of news consumption are changing drastically. Citizens increa
   gap between the news choices of journalists and consumers narrows, and that news
   sharing resembles a zero-sum game, with increased political news sharing leading
   to a decrease in the sharing of other news.
-publication: '*Forthcoming in Information, Communication, and Society*'
+publication: '*Information, Communication, and Society* (In Print)'
 ---

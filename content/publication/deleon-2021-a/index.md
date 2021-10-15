@@ -13,7 +13,7 @@ authors:
 - Silke Adam
 tags: []
 categories: []
-date: 'Forthcoming'
+date: '2021-02-28'
 lastmod: 
 featured: false
 draft: false
@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-28T07:48:08.850513Z'
+publishDate: '2021-02-28T07:48:08.850513Z'
 publication_types:
-- '2'
+- '3'
 abstract: This study explores shifts in political trust during the COVID-19 pandemic
   in Switzerland, examining the role that media consumption and threat perceptions
   played in individuals’ propensity to `rally-round the flag’. We combine panel surveys
