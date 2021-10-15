@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Political News, Facebook Reactions and Sharing Behaviour: A Study of Emotions
-  and Political News Sharing'
+title: 'A Sadness Bias in Political News Sharing? The Role of Discrete Emotions in the Engagement and Dissemination of Political News on Facebook'
 subtitle: ''
 summary: ''
 authors:
@@ -32,16 +31,7 @@ projects: []
 publishDate: '2021-08-28T07:48:10.678417Z'
 publication_types:
 - '2'
-abstract: Citizens on Social Network Sites are constantly exposed to news detailing
-  the latest in the political grapevine, making sites such as Facebook a crucial source
-  of political news consumption and opinion formation. Here, we address the role of
-  emotions in political news consumption on Social Network Sites, drawing on communication
-  and psychology theories to study how news article sentiment and framing determine
-  emotional responses and dissemination of political news articles on Facebook during
-  an election. Studying the 2018 Mexican elections, findings support traditional criteria
-  of emotional engagement with political news, providing further evidence of news
-  sentiment on emotions, and of a negativity bias in news sharing and engagement.
-  The results also provide evidence for the existence of a novel sadness bias in the
-  sharing and engagement of political news.
-publication: '*Under Review*'
+abstract: In this study we address the role of emotions in political news sharing on Facebook to better understand the complex relationship between journalism, emotions, and politics. Categorizing Facebook Reactions (particularly, the Sad, Angry, Love, and Wow Reactions) according to the discrete emotions model, we evaluate how positive vs negative political content relates to emotional responses, and how this consequentially influences the degree to which articles are shared across social media in the context of an election. We focus on the landmark 2018 Mexican elections to enable a nuanced conversation on how cues of user emotion predict the far-reaching dissemination of news articles on Facebook during a moment of heightened political attention. Our findings demonstrate a negativity bias in news sharing and engagement, showing an outsized prevalence of anger in response to political news. Additionally, we provide evidence of a novel sadness bias in the sharing of political coverage, suggesting that emotions considered as deactivating should be reevaluated in the context of social media.
+ 
+publication: 'Forthcoming in Social Media + Society'
 ---
