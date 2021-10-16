@@ -9,6 +9,10 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
+autolink: true
+
+
+
 title: Contact
 subtitle:
 
@@ -18,12 +22,12 @@ content:
   
   # Email form provider
   form:
-    provider: 
+    provider: netlify
     formspree:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: true
   
 design:
   columns: '2'
