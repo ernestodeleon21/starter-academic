@@ -39,29 +39,31 @@
   abstract = {Citizens increasingly rely on social media platforms to not only read but to share news on politics. To date, little is known about how patterns of news sharing diverge across contexts. This study seeks to remedy this by investigating the news that users share on social media and the news published by news media organizations (a) across election and routine periods and (b) across eight countries (i.e., Australia, Austria, Brazil, Germany, the Netherlands, Romania, Spain, and the United Kingdom). Using a sample of the useNews dataset (265,714 URLs shared over 12 million times on Facebook), findings show that elections are linked to increases in political news publication, but even larger increases in political news sharing -- these changes, however, vary significantly by country. We also show that, overall, political news is shared more often than news publication patterns would suggest, proposing higher political interest by Facebook users than previously thought.}
 }
 
-@Article{deleon2021d,
-  author    = {de León, Ernesto and Trilling, Damian},
-  title     = {Political News, Facebook Reactions and Sharing Behaviour: A Study of Emotions and Political News Sharing},
-  journal   = {Under Review},
+@article{deleon2021d,
+ abstract = {In this study we address the role of emotions in political news sharing on Facebook to better understand the complex relationship between journalism, emotions, and politics. Categorizing Facebook Reactions (particularly, the Sad, Angry, Love, and Wow Reactions) according to the discrete emotions model, we evaluate how positive vs negative political content relates to emotional responses, and how this consequentially influences the degree to which articles are shared across social media in the context of an election. We focus on the landmark 2018 Mexican elections to enable a nuanced conversation on how cues of user emotion predict the far-reaching dissemination of news articles on Facebook during a moment of heightened political attention. Our findings demonstrate a negativity bias in news sharing and engagement, showing an outsized prevalence of anger in response to political news. Additionally, we provide evidence of a novel sadness bias in the sharing of political coverage, suggesting that emotions considered as deactivating should be reevaluated in the context of social media.},
+ author = {de León, Ernesto and Trilling, Damian},
+ journal = {Social Media + Society},
+ number = {},
+ owner = {},
+ pages = {},
+ timestamp = {},
+ title = {A Sadness Bias in Political News Sharing? The Role of Discrete Emotions in the Engagement and Dissemination of Political News on Facebook},
+ volume = {In Print},
+ year = {2021}
+}
+
+@Article{deleon2021e,
+  author    = {de León, Ernesto and Vermeer, Susan and Trilling, Damian},
+  title     = {Electoral News Sharing: A Study of Changes in News Coverage and Facebook Sharing Behaviour During the 2018 Mexican Elections},
+  journal   = {Information, Communication and Society},
   year      = {2021},
   volume    = {},
   number    = {},
   pages     = {},
   owner     = {},
   timestamp = {},
-  abstract = {Citizens on Social Network Sites are constantly exposed to news detailing the latest in the political grapevine, making sites such as Facebook a crucial source of political news consumption and opinion formation. Here, we address the role of emotions in political news consumption on Social Network Sites, drawing on communication and psychology theories to study how news article sentiment and framing determine emotional responses and dissemination of political news articles on Facebook during an election. Studying the 2018 Mexican elections, findings support traditional criteria of emotional engagement with political news, providing further evidence of news sentiment on emotions, and of a negativity bias in news sharing and engagement. The results also provide evidence for the existence of a novel sadness bias in the sharing and engagement of political news.}
-}
-
-@Article{deleon2021e,
-  author    = {de León, Ernesto and Vermeer, Susan and Trilling, Damian},
-  title     = {Electoral News Sharing: A Study of Changes in News Coverage and Facebook Sharing Behaviour During the 2018 Mexican Elections},
-  journal   = {Information Communication and Society},
-  year      = {Forthcoming},
-  volume    = {},
-  number    = {},
-  pages     = {},
-  owner     = {},
-  timestamp = {},
+  url       = {https://www.tandfonline.com/doi/full/10.1080/1369118X.2021.1994629},
+  doi       = {https://doi.org/10.1080/1369118X.2021.1994629},
   abstract = {Patterns of news consumption are changing drastically. Citizens increasingly rely on social media such as Facebook to read and share political news. With the power of these platforms to expose citizens to political information, the implications for democracy are profound, making understanding what is shared during elections a priority on the research agenda. Nevertheless, to the best of our knowledge, no study has yet explicitly explored how elections transform news sharing behaviour on Facebook. This study begins to remedy this by (a) investigating changes in news coverage and news sharing behaviour on Facebook by comparing election and routine periods, and by (b) addressing the `news gap' between preferences of journalists and news consumers on social media. Employing a novel data set of news articles (N = 83,054) in Mexico, findings show that during periods of heightened political activity, both the publication and dissemination of political news increases, the gap between the news choices of journalists and consumers narrows, and that news sharing resembles a zero-sum game, with increased political news sharing leading to a decrease in the sharing of other news.}
 }
 
@@ -76,6 +78,16 @@
   owner     = {},
   timestamp = {},
   abstract = {Weberian research has often assumed that written immigration policies reveal governments’ consistent objectives. This research struggles to make sense of the finding that immigration policies are frequently inconsistent: combining or alternating between restrictive and non-restrictive measures. This study uses global data sets to reveal what proportion of immigration policies are inconsistent and develops a measure of policy inconsistency to track how immigration policy inconsistency varies across time and space. We use these techniques to generate limited empirical support for macro-political explanations of policy inconsistency, that focus on variables located at the national scale. We then use these findings and analyses to argue in favour of further research into micro-political explanations, that focus on the behaviour of ordinary officials and migrants at the local scale. Exploring the impact of micro-political factors on national immigration policies will require substantially improved dialogues between quantitative and qualitative research.}
+}
+
+@article{deLeon2021politics,
+  title={The Politics of Differentiated Integration: What do Governments Want? Country Report-Spain},
+  author={de León, Ernesto},
+  journal={Robert Schuman Centre for Advanced Studies Research Paper No. RSCAS},
+  volume={39},
+  year={2021},
+  url={https://ssrn.com/abstract=3821725},
+  doi={http://dx.doi.org/10.2139/ssrn.3821725}
 }
 
 

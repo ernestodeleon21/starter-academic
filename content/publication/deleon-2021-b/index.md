@@ -13,7 +13,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-08-28T09:48:10+02:00
+lastmod: 2021-11-07T12:36:38+01:00
 featured: false
 draft: false
 
@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-28T07:48:09.581132Z'
+publishDate: '2021-11-07T11:36:36.271454Z'
 publication_types:
 - '2'
 abstract: The article examines news trajectories used by individuals to access mainstream

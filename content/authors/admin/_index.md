@@ -48,15 +48,16 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/edeleonw
-#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #icon_pack: fas
-  #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=KIryDwUAAAAJ&gmla=AJsN-F7k70mVNkzfXJ_Cbs77idrvs93bA4F_nTsTlmViSUXfGtm6n2JowNzUc3dA1Fm8bX_URAWimhnFuIgfz-yqy4olMj0XPQqtnCWHkYARIuPnUe-TtZ3YFTfB20MqUNPWT9hAdQHF
 - icon: github
   icon_pack: fab
   link: https://github.com/ernestodeleon21
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/edeleonw/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
