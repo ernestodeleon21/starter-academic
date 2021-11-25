@@ -10,8 +10,8 @@ authors:
 - Damian Trilling
 tags: []
 categories: []
-date: '2021-03-01'
-lastmod: 2021-11-07T12:36:41+01:00
+date: '2021-08-01'
+lastmod: 2021-11-25T15:09:19+01:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-07T11:36:39.699958Z'
+publishDate: '2021-11-25T14:09:17.763053Z'
 publication_types:
 - '2'
 abstract: In this study we address the role of emotions in political news sharing
@@ -46,5 +46,9 @@ abstract: In this study we address the role of emotions in political news sharin
   provide evidence of a novel sadness bias in the sharing of political coverage, suggesting
   that emotions considered as deactivating should be reevaluated in the context of
   social media.
-publication: '*Social Media + Society* (In Print)'
+publication: '*Social Media + Society*. Doi: https://doi.org/10.1177/20563051211059710'
+url_pdf: https://journals.sagepub.com/doi/10.1177/20563051211059710
+#doi: https://doi.org/10.1177/20563051211059710
 ---
+
+

@@ -31,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-07T11:36:36.271454Z'
+publishDate: '2021-11-01T14:09:14.014284Z'
 publication_types:
 - '2'
 abstract: The article examines news trajectories used by individuals to access mainstream

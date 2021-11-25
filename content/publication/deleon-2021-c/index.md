@@ -11,7 +11,7 @@ authors:
 tags: []
 categories: []
 date: '2021-01-01'
-lastmod: 2021-11-07T12:36:39+01:00
+lastmod: 2021-11-11T12:36:39+01:00
 featured: false
 draft: false
 
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-07T11:36:38.144434Z'
+publishDate: '2021-11-11T14:09:16.077286Z'
 publication_types:
 - '2'
 abstract: Citizens increasingly rely on social media platforms to not only read but

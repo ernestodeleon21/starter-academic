@@ -48,7 +48,8 @@
  pages = {},
  timestamp = {},
  title = {A Sadness Bias in Political News Sharing? The Role of Discrete Emotions in the Engagement and Dissemination of Political News on Facebook},
- volume = {In Print},
+ volume = {},
+ doi = {https://doi.org/10.1177/20563051211059710},
  year = {2021}
 }
 
