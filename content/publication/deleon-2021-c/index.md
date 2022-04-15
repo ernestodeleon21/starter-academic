@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-11T14:09:16.077286Z'
+publishDate: '2022-04-15T13:45:42.278464Z'
 publication_types:
 - '2'
 abstract: Citizens increasingly rely on social media platforms to not only read but

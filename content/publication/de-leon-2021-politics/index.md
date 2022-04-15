@@ -9,7 +9,7 @@ authors:
 - Ernesto de León
 tags: []
 categories: []
-date: '2021-04-04'
+date: '2021-01-01'
 lastmod: 2021-11-25T12:41:03+01:00
 featured: false
 draft: false
@@ -28,11 +28,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-11-25T14:09:24.088590Z'
+publishDate: '2022-04-15T13:45:46.412434Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Robert Schuman Centre for Advanced Studies Research Paper No. RSCAS*. Doi: http://dx.doi.org/10.2139/ssrn.3821725'
+publication: '*Robert Schuman Centre for Advanced Studies Research Paper No. RSCAS*'
 url_pdf: https://ssrn.com/abstract=3821725
 #doi: http://dx.doi.org/10.2139/ssrn.3821725
+doi: http://dx.doi.org/10.2139/ssrn.3821725
 ---
