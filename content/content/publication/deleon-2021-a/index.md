@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'On the Conditional Relationship between Political Trust and Media Consumption:
-  the Case of Threat Perceptions and the COVID-19 Rally Effect in Switzerland'
+title: 'News, Threats, and Trust: How COVID-19 News Shaped Political Trust, and How Threat Perceptions Conditioned This Relationship'
 subtitle: ''
 summary: ''
 authors:
@@ -13,8 +12,8 @@ authors:
 - Silke Adam
 tags: []
 categories: []
-date: 'Forthcoming'
-lastmod: 2021-08-28T09:48:09+02:00
+date: '2022-01-01'
+lastmod: 2022-03-28T09:48:09+02:00
 featured: false
 draft: false
 
@@ -32,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-08-28T07:48:08.850513Z'
+publishDate: '2022-03-28T09:48:09+02:00'
 publication_types:
 - '2'
 abstract: This study explores shifts in political trust during the COVID-19 pandemic
