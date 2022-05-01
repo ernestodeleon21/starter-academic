@@ -1,8 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'News, Threats, and Trust: How COVID-19 News Shaped Political Trust, and How
-  Threat Perceptions Conditioned This Relationship'
+title: 'News, Threats, and Trust: How COVID-19 News Shaped Political Trust, and How Threat Perceptions Conditioned This Relationship'
 subtitle: ''
 summary: ''
 authors:
