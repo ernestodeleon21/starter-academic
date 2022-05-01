@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Inconsistency of Immigration Policy: Exploring New Theoretical Explanations'
+title: 'The Inconsistency of Immigration Policy: From Macro- to Micro- approaches'
 subtitle: ''
 summary: ''
 authors:
@@ -44,5 +44,7 @@ abstract: 'Weberian research has often assumed that written immigration policies
   on the behaviour of ordinary officials and migrants at the local scale. Exploring
   the impact of micro-political factors on national immigration policies will require
   substantially improved dialogues between quantitative and qualitative research.'
-publication: '*Under Review*'
+publication: '*Under Review - Pre-print Available*'
+url_pdf: https://osf.io/preprints/socarxiv/ykp2g/
+doi: https://doi.org/10.31235/osf.io/ykp2g
 ---

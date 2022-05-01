@@ -65,7 +65,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ernesto(dot)deleon[at]unibe(dot)ch"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -82,9 +82,9 @@ My research focuses on political information flows in a digital age and its effe
 I classify my research into three main branches:
 
 
--	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I research what influences the difusion of political news across social network sites, addresing  the role played by emotions, as well as the impact elections have on changing patterns of news engagement.
+-	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I research what influences the diffusion of political news across social network sites, addressing  the role played by emotions, as well as the impact elections have on changing patterns of news engagement.
 - **Individual access to political information:** Using a combination of survey and digital trace data, I aim to understand how people access political information. This work speaks to the areas of media exposure measurement, and accurate classification of political and hyperpartisan content. 
 - **Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1dKCWtiZRd7zyeoi3Ivm_VmPX5fZmBMa9/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1Y6AgQ7wo6ij9P0mXTj22IxYR_1NO3atC/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.

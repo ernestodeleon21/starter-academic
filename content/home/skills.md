@@ -14,7 +14,7 @@ headless: false
 weight: 30
 
 
-#title: Skills
+title: Skills
 subtitle:
 
 # Showcase personal skills or business features.
