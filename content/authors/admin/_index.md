@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:ernesto.deleon@unibe.ch'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/edeleonw
@@ -67,10 +67,10 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ernesto.deleon@unibe.ch"
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Hello! I’m a PhD candidate in political communication at the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by {{< staticref "https://www.ikmb.unibe.ch/ueber_uns/personen/prof_dr_adam_silke/index_ger.html" "newtab" >}}Prof Dr Silke Adam{{< /staticref >}} (supervisor) at the University of Bern, and {{< staticref "https://www.uni-koblenz-landau.de/de/landau/fb8/ikms/kompsych/mmaier" "newtab" >}}Prof Dr Michaela Maier{{< /staticref >}} at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
