@@ -91,4 +91,4 @@ I classify my research into three main branches:
 - **Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1dKCWtiZRd7zyeoi3Ivm_VmPX5fZmBMa9/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1Y6AgQ7wo6ij9P0mXTj22IxYR_1NO3atC/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
