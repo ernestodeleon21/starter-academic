@@ -81,7 +81,7 @@ Hello! I’m a PhD candidate in political communication at the {{< staticref "ht
 ## Research
 
 
-My research focuses on political information flows in a digital age and its effects on political attitudes. To do so, I make use of computational methodologies to explore web behaviour, social media use, and to conduct large-scale automated content analyses through text-as-data approaches. 
+My research focuses on political information flows in a digital age and its effects on political attitudes, and has been published in internationally-aclaimed journals, such as the Journal of Press/Politics, Social Media + Society, and Information, Communication and Society. To do so, I make use of computational methodologies to explore web behaviour, social media use, and to conduct large-scale automated content analyses through text-as-data approaches. 
 
 I classify my research into three main branches:
 
