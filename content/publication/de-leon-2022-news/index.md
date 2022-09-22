@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Politics of Differentiated Integration: What do Governments Want? Country
-  Report-Spain'
+title: 'The News Sharing Gap: Divergence in Online Political News Publication and
+  Dissemination Patterns across Elections and Countries'
 subtitle: ''
 summary: ''
 authors:
 - Ernesto de León
+- Susan Vermeer
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-11-25T12:41:03+01:00
+date: '2022-01-02'
+lastmod: 2022-09-22T10:36:47+02:00
 featured: false
 draft: false
 
@@ -28,12 +29,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-22T08:41:02.147828Z'
+publishDate: '2022-09-22T08:41:03.452457Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Robert Schuman Centre for Advanced Studies Research Paper No. RSCAS*'
-url_pdf: https://ssrn.com/abstract=3821725
-#doi: http://dx.doi.org/10.2139/ssrn.3821725
-doi: http://dx.doi.org/10.2139/ssrn.3821725
+publication: '*Digital Journalism*'
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2099920
+#doi: https://doi.org/10.1177/20563051211059710
+doi: https://doi.org/10.1080/21670811.2022.2099920
 ---

@@ -1,16 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'The Politics of Differentiated Integration: What do Governments Want? Country
-  Report-Spain'
+title: 'Panning for gold: Lessons learned from the platform-agnostic automated detection
+  of political content in textual data'
 subtitle: ''
 summary: ''
 authors:
+- Mykola Makhortykh
 - Ernesto de León
+- Aleksandra Urman
+- Clara Christner
+- Maryna Sydorova
+- Silke Adam
+- Michaela Maier
+- Teresa Gil-Lopez
 tags: []
 categories: []
-date: '2021-01-01'
-lastmod: 2021-11-25T12:41:03+01:00
+date: '2022-01-01'
+lastmod: 2022-09-20T10:41:05+02:00
 featured: false
 draft: false
 
@@ -28,12 +35,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-22T08:41:02.147828Z'
+publishDate: '2022-09-22T08:41:04.688033Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Robert Schuman Centre for Advanced Studies Research Paper No. RSCAS*'
-url_pdf: https://ssrn.com/abstract=3821725
-#doi: http://dx.doi.org/10.2139/ssrn.3821725
-doi: http://dx.doi.org/10.2139/ssrn.3821725
+publication: '*arXiv preprint arXiv:2207.00489*'
+url_pdf: https://arxiv.org/abs/2207.00489
+#doi: https://doi.org/10.48550/arXiv.2207.00489
+doi: https://doi.org/10.48550/arXiv.2207.00489
+
 ---

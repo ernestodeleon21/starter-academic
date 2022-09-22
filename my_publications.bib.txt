@@ -28,19 +28,6 @@
 }
 
 
-@Article{deleon2021c,
-  author    = {de León, Ernesto and Vermeer, Susan},
-  title     = {Caring is sharing? Comparing online political news publication and dissemination patterns across election and routine periods},
-  journal   = {Under Review},
-  year      = {2021},
-  volume    = {},
-  number    = {},
-  pages     = {},
-  owner     = {},
-  timestamp = {},
-  abstract = {Citizens increasingly rely on social media platforms to not only read but to share news on politics. To date, little is known about how patterns of news sharing diverge across contexts. This study seeks to remedy this by investigating the news that users share on social media and the news published by news media organizations (a) across election and routine periods and (b) across eight countries (i.e., Australia, Austria, Brazil, Germany, the Netherlands, Romania, Spain, and the United Kingdom). Using a sample of the useNews dataset (265,714 URLs shared over 12 million times on Facebook), findings show that elections are linked to increases in political news publication, but even larger increases in political news sharing -- these changes, however, vary significantly by country. We also show that, overall, political news is shared more often than news publication patterns would suggest, proposing higher political interest by Facebook users than previously thought.}
-}
-
 @article{deleon2021d,
  abstract = {In this study we address the role of emotions in political news sharing on Facebook to better understand the complex relationship between journalism, emotions, and politics. Categorizing Facebook Reactions (particularly, the Sad, Angry, Love, and Wow Reactions) according to the discrete emotions model, we evaluate how positive vs negative political content relates to emotional responses, and how this consequentially influences the degree to which articles are shared across social media in the context of an election. We focus on the landmark 2018 Mexican elections to enable a nuanced conversation on how cues of user emotion predict the far-reaching dissemination of news articles on Facebook during a moment of heightened political attention. Our findings demonstrate a negativity bias in news sharing and engagement, showing an outsized prevalence of anger in response to political news. Additionally, we provide evidence of a novel sadness bias in the sharing of political coverage, suggesting that emotions considered as deactivating should be reevaluated in the context of social media.},
  author = {de León, Ernesto and Trilling, Damian},
@@ -93,6 +80,22 @@
   doi={http://dx.doi.org/10.2139/ssrn.3821725}
 }
 
+
+@article{deLeon2022news,
+  title={The News Sharing Gap: Divergence in Online Political News Publication and Dissemination Patterns across Elections and Countries},
+  author={de Le{\'o}n, Ernesto and Vermeer, Susan},
+  journal={Digital Journalism},
+  pages={1--20},
+  year={2022},
+  publisher={Taylor \& Francis}
+}
+
+@article{makhortykh2022panning,
+  title={Panning for gold: Lessons learned from the platform-agnostic automated detection of political content in textual data},
+  author={Makhortykh, Mykola and de Le{\'o}n, Ernesto and Urman, Aleksandra and Christner, Clara and Sydorova, Maryna and Adam, Silke and Maier, Michaela and Gil-Lopez, Teresa},
+  journal={arXiv preprint arXiv:2207.00489},
+  year={2022}
+}
 
 
 

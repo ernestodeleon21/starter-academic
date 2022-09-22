@@ -10,7 +10,7 @@ authors:
 - Damian Trilling
 tags: []
 categories: []
-date: '2021-01-01'
+date: '2021-12-30'
 lastmod: 2021-11-25T15:09:19+01:00
 featured: false
 draft: false
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-15T13:45:43.316799Z'
+publishDate: '2022-09-22T08:40:58.003932Z'
 publication_types:
 - '2'
 abstract: In this study we address the role of emotions in political news sharing

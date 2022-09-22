@@ -23,8 +23,9 @@ interests:
 - Machine learning
 - Natural language processing 
 - Computational social science
-- Social media news sharing
+- Social media engagement
 - Media effects
+- R and Python languages
 
 # Education to show in About widget
 education:
@@ -83,7 +84,7 @@ Hello! I’m a PhD candidate in political communication at the {{< staticref "ht
 ## Research
 
 
-My research focuses on political information flows in a digital age and its effects on political attitudes, and has been published in internationally-aclaimed journals, such as the Journal of Press/Politics and Social Media + Society. I make use of computational methodologies to explore web behaviour, social media use, and to conduct large-scale automated content analyses through text-as-data approaches. 
+My research focuses on political information flows in a digital age and its effects on political attitudes. It has been published in internationally-aclaimed journals, such as the International Journal of Press/Politics and Social Media + Society. In these projects, I make use of computational methodologies to explore web behaviour, social media use, and to conduct large-scale automated content analyses through text-as-data approaches. 
 
 I classify my research into three main branches:
 
@@ -93,4 +94,4 @@ I classify my research into three main branches:
 - **Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1Y6AgQ7wo6ij9P0mXTj22IxYR_1NO3atC/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1gM5NV9RoNDngXSSLS4WSib-0XIhPu-oL/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.

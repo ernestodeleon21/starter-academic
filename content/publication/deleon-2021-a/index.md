@@ -1,7 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'News, Threats, and Trust: How COVID-19 News Shaped Political Trust, and How Threat Perceptions Conditioned This Relationship'
+title: 'News, Threats, and Trust: How COVID-19 News Shaped Political Trust, and How
+  Threat Perceptions Conditioned This Relationship'
 subtitle: ''
 summary: ''
 authors:
@@ -31,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-04-15T13:45:40.039867Z'
+publishDate: '2022-09-22T08:40:55.319866Z'
 publication_types:
 - '2'
 abstract: "This study explores shifts in political trust during the outbreak of the\
