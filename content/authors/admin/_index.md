@@ -2,6 +2,8 @@
 # Display name
 title: Ernesto de León
 
+#FOR TWITTER FEED <a class="twitter-timeline" data-height="500" href="https://twitter.com/edeleonw?ref_src=twsrc%5Etfw">Tweets by edeleonw</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -95,3 +97,5 @@ I classify my research into three main branches:
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1gM5NV9RoNDngXSSLS4WSib-0XIhPu-oL/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+
+
