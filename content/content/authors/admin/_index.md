@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Political Communication
     institution: University of Bern
-    year: Ongoing
+    year: 2023
   - course: MSc in Political Science (research)
     institution: University of Amsterdam
     year: 2020

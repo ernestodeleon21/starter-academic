@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-22T08:40:55.319866Z'
+publishDate: '2023-09-14T19:50:23.197621Z'
 publication_types:
 - '2'
 abstract: "This study explores shifts in political trust during the outbreak of the\

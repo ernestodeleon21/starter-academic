@@ -19,11 +19,11 @@ subtitle:
 content:
   email: ernesto(dot)deleon[at]unibe(dot)ch
   address:
-    street: Fabrikstrasse 8
-    city: Bern
-    postcode: '3012, Switzerland'
-    country: 'Switzerland'
-    country_code: CH
+    street:  Nieuwe Achtergracht 166 
+    city:  1018 WV
+    postcode: Amsterdam
+    country: 'Netherlands'
+    country_code: NL
   coordinates: 
     latitude: '37.4275'
     longitude: '-122.1697'

@@ -11,7 +11,7 @@ authors:
 - Damian Trilling
 tags: []
 categories: []
-date: '2021-12-21'
+date: '2021-01-01'
 lastmod: 2021-11-25T12:36:41+01:00
 featured: false
 draft: false
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2022-09-22T08:40:59.289428Z'
+publishDate: '2023-09-14T19:50:26.378677Z'
 publication_types:
 - '2'
 abstract: Patterns of news consumption are changing drastically. Citizens increasingly

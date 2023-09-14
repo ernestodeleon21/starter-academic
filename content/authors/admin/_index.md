@@ -8,12 +8,12 @@ title: Ernesto de León
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Bern
-  url: https://www.ikmb.unibe.ch/index_eng.html
+- name: University of Amsterdam
+  url: https://ascor.uva.nl/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -21,20 +21,19 @@ bio:
 
 # Interests to show in About widget
 interests:
-- Political communication
-- Machine learning
+- Algorithmic Curation
 - Natural language processing 
 - Computational social science
 - Social media engagement
 - Media effects
-- R and Python languages
+- R and Python programing
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Political Communication
+  - course: PhD in Communication Science
     institution: University of Bern
-    year: Ongoing
+    year: 2023
   - course: MSc in Political Science (research)
     institution: University of Amsterdam
     year: 2020
@@ -72,13 +71,19 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
+#working with  PhD candidate in political communication at the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by {{< staticref "https://www.ikmb.unibe.ch/ueber_uns/personen/prof_dr_adam_silke/index_ger.html" "newtab" >}}Prof Dr Silke Adam{{< /staticref >}} (supervisor) at the University of Bern, and {{< staticref "https://www.uni-koblenz-landau.de/de/landau/fb8/ikms/kompsych/mmaier" "newtab" >}}Prof Dr Michaela Maier{{< /staticref >}} at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
+
 email: "ernesto.deleon@unibe.ch"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-Hello! I’m a PhD candidate in political communication at the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by {{< staticref "https://www.ikmb.unibe.ch/ueber_uns/personen/prof_dr_adam_silke/index_ger.html" "newtab" >}}Prof Dr Silke Adam{{< /staticref >}} (supervisor) at the University of Bern, and {{< staticref "https://www.uni-koblenz-landau.de/de/landau/fb8/ikms/kompsych/mmaier" "newtab" >}}Prof Dr Michaela Maier{{< /staticref >}} at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
+Hello! I’m a political communication researcher focused on understanding how human and algorithmic information curation shape our shared political realities. 
+
+Currently, I am a postdoctoral research fellow at the University of Amsterdam and part of the {{< staticref "https://www.algosoc.org" "newtab" >}}Algorithmic Society {{< /staticref >}} consortium. I hold a PhD in communication science from the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science at the University of Amsterdam.
+
+
 
 
 
@@ -86,13 +91,13 @@ Hello! I’m a PhD candidate in political communication at the {{< staticref "ht
 ## Research
 
 
-My research focuses on political information flows in a digital age and its effects on political attitudes. It has been published in internationally-aclaimed journals, such as the International Journal of Press/Politics and Social Media + Society. In these projects, I make use of computational methodologies to explore web behaviour, social media use, and to conduct large-scale automated content analyses through text-as-data approaches. 
+My research focuses on political information flows in a digital age and its effects on political attitudes. In these projects, I make use of computational methodologies to explore web behaviour, use of algorithmic intermediaries to news (such as social media and search engines), and to conduct large-scale automated content analyses through text-as-data approaches. 
 
 I classify my research into three main branches:
 
 
 -	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I research what influences the difusion of political news across social network sites, addresing  the role played by emotions, as well as the impact elections have on changing patterns of news engagement.
-- **Individual access to political information:** Using a combination of survey and digital trace data, I aim to understand how people access political information. This work speaks to the areas of media exposure measurement, and accurate classification of political and hyperpartisan content. 
+- **Individual access to political information:** Using a combination of survey and digital trace data, I aim to understand how people use algorithmic intermediaries to access political information. This work speaks to the areas of algorithmic curation, media exposure measurement, and accurate classification of political and hyperpartisan content. 
 - **Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
 
 
