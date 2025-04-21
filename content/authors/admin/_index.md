@@ -46,22 +46,24 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:e.deleon@uva.nl'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/edeleonw
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.com/citations?view_op=list_works&hl=en&user=KIryDwUAAAAJ&gmla=AJsN-F7k70mVNkzfXJ_Cbs77idrvs93bA4F_nTsTlmViSUXfGtm6n2JowNzUc3dA1Fm8bX_URAWimhnFuIgfz-yqy4olMj0XPQqtnCWHkYARIuPnUe-TtZ3YFTfB20MqUNPWT9hAdQHF
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:e.deleon@uva.nl'
 - icon: github
   icon_pack: fab
   link: https://github.com/ernestodeleon21
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/edeleonw/
-
+- icon: bluesky
+  icon_pack: fab
+  link: https://bsky.app/profile/ernesto-deleon.com
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/edeleonw
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -81,7 +83,7 @@ highlight_name: true
 
 Hello! I am a political communication researcher focused on understanding how human and algorithmic information curation shape our shared political realities. 
 
-Currently, I am a postdoctoral research fellow at the University of Amsterdam and part of the {{< staticref "https://www.algosoc.org" "newtab" >}}Algorithmic Society {{< /staticref >}} consortium. I hold a PhD in communication science from the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science at the University of Amsterdam.
+Currently, I am a postdoctoral research fellow at the University of Amsterdam and part of the {{< staticref "https://www.algosoc.org" "newtab" >}} Public Values in the Algorithmic Society {{< /staticref >}} consortium. I hold a PhD in communication science from the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science at the University of Amsterdam.
 
 
 
