@@ -58,7 +58,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/edeleonw/
-- icon: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Bluesky_Logo.svg/1200px-Bluesky_Logo.svg.png
+- icon: bluesky
+  icon_pack: custom
   link: https://bsky.app/profile/ernesto-deleon.com
 #- icon: twitter
  # icon_pack: fab
