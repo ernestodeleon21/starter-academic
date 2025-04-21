@@ -1,0 +1,4 @@
+Site is hosted here: https://app.netlify.com/sites/goofy-bardeen-b0da82/overview
+
+Its based on godaddy: https://dcc.godaddy.com/control/portfolio/ernesto-deleon.com/settings?ventureId=ef40ff56-c211-4311-ad50-cee6dee6785c&ua_placement=shared_header
+
