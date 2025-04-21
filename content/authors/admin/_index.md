@@ -79,7 +79,7 @@ email: "e.deleon@uva.nl"
 highlight_name: true
 ---
 
-Hello! I’m a political communication researcher focused on understanding how human and algorithmic information curation shape our shared political realities. 
+Hello! I am a political communication researcher focused on understanding how human and algorithmic information curation shape our shared political realities. 
 
 Currently, I am a postdoctoral research fellow at the University of Amsterdam and part of the {{< staticref "https://www.algosoc.org" "newtab" >}}Algorithmic Society {{< /staticref >}} consortium. I hold a PhD in communication science from the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science at the University of Amsterdam.
 
