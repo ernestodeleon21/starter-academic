@@ -58,7 +58,7 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/edeleonw/
-- icon: Bluesky_Logo
+- icon: Bluesky_Logo.svg
   icon_pack: custom
   link: https://bsky.app/profile/ernesto-deleon.com
 #- icon: twitter
@@ -103,6 +103,6 @@ I classify my research into three main branches:
 - **3. Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1UK-SkYavhr5iBSl7MNyCKNJ-B7R1NNiE/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1PaS4AXNWkAn5_xIqTA_GEQwwJRiC79rv/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
 
 
