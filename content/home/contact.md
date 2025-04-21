@@ -17,7 +17,7 @@ title: Contact
 subtitle:
 
 content:
-  email: ernesto(dot)deleon[at]unibe(dot)ch
+  email: e.deleon@uva.nl
   address:
     street:  Nieuwe Achtergracht 166 
     city:  1018 WV
