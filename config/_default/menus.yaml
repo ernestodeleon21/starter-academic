@@ -10,7 +10,7 @@ main:
   - name: Teaching
     url: '#talks'
     weight: 40
-  - name: Publications & Working Papers
+  - name: Publications
     url: '#publications'
     weight: 50
   - name: Contact
