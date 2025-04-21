@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """
-Walk through all `index.md` files under `content/publication/`, discover their DOI,
+Walk through all `index.md` files under `content/publication/`, normalize publication_types,
+replace any `article-journal` entry with the numeric code "2", discover their DOI,
 fetch metadata from CrossRef (journal, abstract, URL), and rewrite the frontmatter
-with `publication`, `url_pdf`, `doi`, and `abstract` fields populated.
+with `publication_types`, `publication`, `url_pdf`, `doi`, and `abstract` fields populated.
 """
 import pathlib
 import re
@@ -10,6 +11,7 @@ import requests
 import yaml
 
 CROSSREF_API = "https://api.crossref.org/works/{}"
+
 
 def fetch_metadata(doi: str) -> dict:
     """Fetch CrossRef metadata for a DOI (no URL prefix)."""
@@ -41,6 +43,13 @@ def process_file(md_path: pathlib.Path):
     start, fm_text, end, body = m.groups()
     fm = yaml.safe_load(fm_text)
 
+    # Normalize publication_types: replace article-journal with "2"
+    if 'publication_types' in fm:
+        pts = fm['publication_types'] or []
+        # detect string entries equal to article-journal
+        if any(str(t) == 'article-journal' for t in pts):
+            fm['publication_types'] = ["2"]
+
     # Locate DOI in frontmatter (with or without full URL)
     raw_doi = fm.get('doi') or fm.get('url_pdf') or fm.get('url')
     if not raw_doi:
@@ -52,7 +61,7 @@ def process_file(md_path: pathlib.Path):
     # Fetch metadata
     meta = fetch_metadata(doi)
 
-    # Update frontmatter
+    # Update frontmatter with fetched metadata
     fm['publication'] = f"*{meta['journal']}*"
     fm['url_pdf'] = meta['url']
     fm['doi'] = f"https://doi.org/{doi}"
@@ -69,6 +78,7 @@ def main():
     root = pathlib.Path('content/publication')
     for md_path in root.rglob('index.md'):
         process_file(md_path)
+
 
 if __name__ == '__main__':
     main()

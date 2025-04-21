@@ -1,0 +1,23 @@
+---
+title: 'Electoral news sharing: a study of changes in news coverage and Facebook sharing
+  behaviour during the 2018 Mexican elections'
+authors:
+- "E. de Le\xF3n"
+- S. Vermeer
+- D. Trilling
+date: '2023-04-01'
+publishDate: '2025-04-21T16:09:20.930615Z'
+publication_types:
+- '2'
+publication: '*Information, Communication &amp; Society*'
+doi: https://doi.org/10.1080/1369118X.2021.1994629
+abstract: ''
+tags:
+- Elections
+- Mexico
+- news sharing
+- online news
+- social media
+- supervised machine learning
+url_pdf: https://doi.org/10.1080/1369118x.2021.1994629
+---
