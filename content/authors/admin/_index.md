@@ -61,9 +61,9 @@ social:
 - icon: Bluesky_Logo
   icon_pack: custom
   link: https://bsky.app/profile/ernesto-deleon.com
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/edeleonw
+#- icon: twitter
+ # icon_pack: fab
+  #link: https://twitter.com/edeleonw
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
