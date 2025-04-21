@@ -3,7 +3,7 @@ title: Political Communication and Journalism
 
 event_url: ""
 
-location: University of Bern
+location: University of Amsterdam
 
 summary: "_Tutorial Group Leader_ Led two weekly tutorial groups (±50 students total) that advanced students' understanding of political communication and journalism. _Average teaching evaluation score:_ 4.41/5."
 
