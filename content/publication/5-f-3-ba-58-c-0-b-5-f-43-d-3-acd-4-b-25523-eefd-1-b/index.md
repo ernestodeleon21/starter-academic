@@ -2,13 +2,13 @@
 title: 'News, threats, and trust: How COVID-19 news shaped political trust, and how
   threat perceptions conditioned this relationship'
 authors:
-- '**Ernesto de León**'
+- Ernesto de León
 - Mykola Makhortykh
 - Teresa Gil-Lopez
 - Aleksandra Urman
 - Silke Adam
 date: '2022-04-01'
-publishDate: '2025-04-21T16:19:49.115090Z'
+publishDate: '2025-04-21T16:27:14.115889Z'
 publication_types:
 - '2'
 publication: '*The International Journal of Press/Politics*'

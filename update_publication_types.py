@@ -2,9 +2,8 @@
 """
 Walk through all `index.md` files under `content/publication/`, normalize publication_types,
 replace any `article-journal` entry with the numeric code "2", discover their DOI,
-bold the name **Ernesto de León** in the authors list (preserving accents), fetch metadata
-from CrossRef (journal, abstract, URL), and rewrite the frontmatter
-with `publication_types`, `authors`, `publication`, `url_pdf`, `doi`, and `abstract` fields populated.
+fetch metadata from CrossRef (journal, abstract, URL), and rewrite the frontmatter
+with `publication_types`, `publication`, `url_pdf`, `doi`, and `abstract` fields populated.
 """
 import pathlib
 import re
@@ -49,19 +48,6 @@ def process_file(md_path: pathlib.Path):
         pts = fm['publication_types'] or []
         if any(str(t) == 'article-journal' for t in pts):
             fm['publication_types'] = ["2"]
-
-    # Bold Ernesto de León in authors list, preserving accents
-    if 'authors' in fm and isinstance(fm['authors'], list):
-        new_authors = []
-        for a in fm['authors']:
-            name = str(a).strip()
-            # Compare normalized (lowercase, strip accents)
-            norm = name.lower().replace('í', 'i').replace('é', 'e').replace('ó','o').replace('á','a').replace('ñ','n')
-            if norm == 'ernesto de leon':
-                new_authors.append(f"**{name}**")
-            else:
-                new_authors.append(name)
-        fm['authors'] = new_authors
 
     # Locate DOI in frontmatter (with or without full URL)
     raw_doi = fm.get('doi') or fm.get('url_pdf') or fm.get('url')

@@ -4,13 +4,13 @@ title: 'Do (Not!) track me: Relationship between willingness to participate and 
 authors:
 - Teresa Gil-Lopez
 - Clara Christner
-- '**Ernesto de León**'
+- Ernesto de León
 - Mykola Makhortykh
 - Aleksandra Urman
 - Michaela Maier
 - Silke Adam
 date: '2023-02-01'
-publishDate: '2025-04-21T16:19:49.107832Z'
+publishDate: '2025-04-21T16:27:14.105399Z'
 publication_types:
 - '2'
 publication: '*Social Science Computer Review*'

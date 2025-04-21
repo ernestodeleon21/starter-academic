@@ -1,9 +1,9 @@
 ---
 title: Hyperpartisan News
 authors:
-- '**Ernesto de León**'
+- Ernesto de León
 date: '2024-09-01'
-publishDate: '2025-04-21T16:19:49.064340Z'
+publishDate: '2025-04-21T16:27:14.047605Z'
 publication_types:
 - '2'
 publication: '**'

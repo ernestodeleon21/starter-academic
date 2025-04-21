@@ -6,7 +6,7 @@ authors:
 - E. de León
 - M. Makhortykh
 date: '2024-10-01'
-publishDate: '2025-04-21T16:19:49.049890Z'
+publishDate: '2025-04-21T16:27:14.033175Z'
 publication_types:
 - '2'
 publication: '*Personality and Individual Differences*'

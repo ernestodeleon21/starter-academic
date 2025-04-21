@@ -1,0 +1,15 @@
+First, get updated publication list from:
+
+https://orcid.org/my-orcid?orcid=0000-0003-3152-0722
+
+Second, upload it to GitHub:
+
+https://github.com/ernestodeleon21/starter-academic
+
+Third, in Codespaces, run:
+
+academic import publications.bib content/publication/ --compact --format bibtex
+
+Fourth, in Codespaces, run:
+
+./update_publication_types.py

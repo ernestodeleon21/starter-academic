@@ -6,7 +6,7 @@ authors:
 - M. Makhortykh
 - S. Adam
 date: '2024-01-01'
-publishDate: '2025-04-21T16:19:49.035889Z'
+publishDate: '2025-04-21T16:27:14.018557Z'
 publication_types:
 - '2'
 publication: '*Political Communication*'

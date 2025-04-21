@@ -2,9 +2,9 @@
 title: 'On issue survival: News media and how political issues remain salient in the
   face of crisis'
 authors:
-- '**Ernesto de León**'
+- Ernesto de León
 date: '2023-07-01'
-publishDate: '2025-04-21T16:19:49.085293Z'
+publishDate: '2025-04-21T16:27:14.068639Z'
 publication_types:
 - '2'
 publication: '*International Journal of Public Opinion Research*'
