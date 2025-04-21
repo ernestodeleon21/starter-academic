@@ -26,7 +26,7 @@ tags: []
 featured: false
 
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/1-u4kf-2DG-Tdx52F_kaShEj5rPcq0ceP/view?usp=sharing"
-url_slides: ""
+url_pdf: "https://drive.google.com/file/d/1abjc03G_HZpMOM8EPx-3NpWrMhFq9TOy/view?usp=sharing"
+url_slides: "https://drive.google.com/file/d/1abjc03G_HZpMOM8EPx-3NpWrMhFq9TOy/view?usp=sharing"
 url_video: ""
 ---

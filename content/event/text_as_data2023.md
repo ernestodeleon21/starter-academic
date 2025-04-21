@@ -20,7 +20,7 @@ tags: []
 featured: false
 
 url_code: ""
-url_pdf: "https://drive.google.com/file/d/1sKBH2b5lckyqI3yEgaQ6zAaLyeVvFyEo/view?usp=sharing"
+url_pdf: "https://drive.google.com/file/d/1kWFX4OE81PKmQ-bzjGjnd07xAHYJUFUo/view?usp=sharing"
 url_slides: ""
 url_video: ""
 ---
