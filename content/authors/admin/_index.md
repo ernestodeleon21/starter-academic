@@ -48,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ernesto.deleon@unibe.ch'
+  link: 'mailto:e.deleon@uva.nl'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/edeleonw
@@ -73,7 +73,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #working with  PhD candidate in political communication at the {{< staticref "https://www.ikmb.unibe.ch/" "newtab" >}}Institute of Communication and Media Studies{{< /staticref >}} at the University of Bern, in Switzerland. Currently, I’m part of the research project “Reciprocal relations between populist radical-right attitudes and political information behavior” led by {{< staticref "https://www.ikmb.unibe.ch/ueber_uns/personen/prof_dr_adam_silke/index_ger.html" "newtab" >}}Prof Dr Silke Adam{{< /staticref >}} (supervisor) at the University of Bern, and {{< staticref "https://www.uni-koblenz-landau.de/de/landau/fb8/ikms/kompsych/mmaier" "newtab" >}}Prof Dr Michaela Maier{{< /staticref >}} at the University of Koblenz-Landau. Originally from the Dominican Republic, I did my BA in International Relations at the ITESM in Mexico, and obtained my MSc in Political Science (research) at the University of Amsterdam. 
 
-email: "ernesto.deleon@unibe.ch"
+email: "e.deleon@uva.nl"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -96,9 +96,9 @@ My research focuses on political information flows in a digital age and its effe
 I classify my research into three main branches:
 
 
--	**Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I research what influences the difusion of political news across social network sites, addresing  the role played by emotions, as well as the impact elections have on changing patterns of news engagement.
-- **Individual access to political information:** Using a combination of survey and digital trace data, I aim to understand how people use algorithmic intermediaries to access political information. This work speaks to the areas of algorithmic curation, media exposure measurement, and accurate classification of political and hyperpartisan content. 
-- **Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
+-	**1. Aggregate information flows:** Here I focus on aggregate-level sharing of news on social media. I research what influences the difusion of political news across social network sites, addresing  the role played by emotions, as well as the impact elections have on changing patterns of news engagement.
+- **2. Individual access to political information:** Using a combination of survey and digital trace data, I aim to understand how people use algorithmic intermediaries to access political information. This work speaks to the areas of algorithmic curation, media exposure measurement, and accurate classification of political and hyperpartisan content. 
+- **3. Effects of political news consumption:** Here I research how consumption of political news impacts individuals' trust in politics, and likelihood to participate in political processes.   
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1tzt-QkYFY2AS5QRE943Nse_FLFFIfbV9/view?usp=sharing" "newtab" >}}resumé{{< /staticref >}}.
