@@ -2,11 +2,11 @@
 title: 'Hyperpartisan, Alternative, and Conspiracy Media Users: An Anti-Establishment
   Portrait'
 authors:
-- "E. de Le\xF3n"
+- E. de León
 - M. Makhortykh
 - S. Adam
 date: '2024-01-01'
-publishDate: '2025-04-21T16:09:20.868553Z'
+publishDate: '2025-04-21T16:19:49.035889Z'
 publication_types:
 - '2'
 publication: '*Political Communication*'

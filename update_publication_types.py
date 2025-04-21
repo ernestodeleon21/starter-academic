@@ -2,8 +2,9 @@
 """
 Walk through all `index.md` files under `content/publication/`, normalize publication_types,
 replace any `article-journal` entry with the numeric code "2", discover their DOI,
-fetch metadata from CrossRef (journal, abstract, URL), and rewrite the frontmatter
-with `publication_types`, `publication`, `url_pdf`, `doi`, and `abstract` fields populated.
+bold the name **Ernesto de León** in the authors list (preserving accents), fetch metadata
+from CrossRef (journal, abstract, URL), and rewrite the frontmatter
+with `publication_types`, `authors`, `publication`, `url_pdf`, `doi`, and `abstract` fields populated.
 """
 import pathlib
 import re
@@ -46,9 +47,21 @@ def process_file(md_path: pathlib.Path):
     # Normalize publication_types: replace article-journal with "2"
     if 'publication_types' in fm:
         pts = fm['publication_types'] or []
-        # detect string entries equal to article-journal
         if any(str(t) == 'article-journal' for t in pts):
             fm['publication_types'] = ["2"]
+
+    # Bold Ernesto de León in authors list, preserving accents
+    if 'authors' in fm and isinstance(fm['authors'], list):
+        new_authors = []
+        for a in fm['authors']:
+            name = str(a).strip()
+            # Compare normalized (lowercase, strip accents)
+            norm = name.lower().replace('í', 'i').replace('é', 'e').replace('ó','o').replace('á','a').replace('ñ','n')
+            if norm == 'ernesto de leon':
+                new_authors.append(f"**{name}**")
+            else:
+                new_authors.append(name)
+        fm['authors'] = new_authors
 
     # Locate DOI in frontmatter (with or without full URL)
     raw_doi = fm.get('doi') or fm.get('url_pdf') or fm.get('url')
@@ -67,8 +80,8 @@ def process_file(md_path: pathlib.Path):
     fm['doi'] = f"https://doi.org/{doi}"
     fm['abstract'] = meta['abstract']
 
-    # Dump back to YAML, preserving key order
-    new_fm = yaml.dump(fm, sort_keys=False)
+    # Dump back to YAML, preserving key order and unicode
+    new_fm = yaml.dump(fm, sort_keys=False, allow_unicode=True)
     new_text = f"{start}{new_fm}{end}{body}"
     md_path.write_text(new_text, encoding='utf-8')
     print(f"Processed: {md_path}")

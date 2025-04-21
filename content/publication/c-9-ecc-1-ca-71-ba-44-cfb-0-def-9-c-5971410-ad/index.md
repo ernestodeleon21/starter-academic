@@ -2,10 +2,10 @@
 title: 'The news sharing gap: Divergence in online political news publication and
   dissemination patterns across elections and countries'
 authors:
-- "E. de Le\xF3n Williams"
+- E. de León Williams
 - S. Vermeer
 date: '2023-01-01'
-publishDate: '2025-04-21T16:09:20.903348Z'
+publishDate: '2025-04-21T16:19:49.070361Z'
 publication_types:
 - '2'
 publication: '*Digital Journalism*'

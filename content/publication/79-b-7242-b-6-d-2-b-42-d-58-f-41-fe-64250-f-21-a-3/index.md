@@ -8,10 +8,10 @@ authors:
 - M. Makhortykh
 - L. Bromme
 - C. Christner
-- "E. de Le\xF3n"
+- E. de León
 - A. Urman
 date: '2025-01-01'
-publishDate: '2025-04-21T16:09:20.857450Z'
+publishDate: '2025-04-21T16:19:49.025904Z'
 publication_types:
 - '2'
 publication: '*Mass Communication and Society*'

@@ -9,10 +9,10 @@ authors:
 - Aleksandra Urman
 - Teresa Gil Lopez
 - Clara Christner
-- "Ernesto de Le\xF3n"
+- '**Ernesto de León**'
 - Roberto Ulloa
 date: '2024-10-01'
-publishDate: '2025-04-21T16:09:20.889995Z'
+publishDate: '2025-04-21T16:19:49.056958Z'
 publication_types:
 - '2'
 publication: '*Social Science Computer Review*'

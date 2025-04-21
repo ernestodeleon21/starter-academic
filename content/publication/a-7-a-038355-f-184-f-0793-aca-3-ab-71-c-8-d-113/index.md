@@ -2,10 +2,10 @@
 title: A Sadness Bias in Political News Sharing? The Role of Discrete Emotions in
   the Engagement and Dissemination of Political News on Facebook
 authors:
-- "E. de Le\xF3n"
+- E. de León
 - D. Trilling
 date: '2021-01-01'
-publishDate: '2025-04-21T16:09:20.952874Z'
+publishDate: '2025-04-21T16:19:49.122920Z'
 publication_types:
 - '2'
 publication: '*Social Media + Society*'

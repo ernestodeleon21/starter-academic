@@ -2,11 +2,11 @@
 title: URLs can facilitate machine learning classification of news stories across
   languages and contexts
 authors:
-- "E. de Le\xF3n"
+- E. de León
 - S. Vermeer
 - D. Trilling
 date: '2023-01-01'
-publishDate: '2025-04-21T16:09:20.910390Z'
+publishDate: '2025-04-21T16:19:49.078211Z'
 publication_types:
 - '2'
 publication: '*Computational Communication Research*'
