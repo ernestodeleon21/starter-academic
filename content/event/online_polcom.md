@@ -11,7 +11,7 @@ location: University of Bern
   #postcode: '94305'
   #country: United States
 
-summary: "_Instructor/Course Designer_ This course served to introduce students to the main discussions taking place in the realm of online political communication. In the design and implementation of this course, I placed focus on using empirical work to provide nuanced answers to current public debates._Average teaching evaluation score:_ 5.29/6."
+summary: "_Instructor/Course Designer_ This course served to introduce students to the main discussions taking place in the realm of online political communication. In the design and implementation of this course, I placed focus on using empirical work to provide nuanced answers to current public debates."
 
 Abstract: "How do social media, political participation, news consumption and campaigning come together in the online world? This proseminar addresses this question by providing a comprehensive overview of the current status of research in online communication science, with a focus on political communication. Engaging with a combination of both theoretical and empirical research, studies are discussed in light of contemporary events, linking the development of online communication to more classic forms of political communication. In the proseminar, we seek to engage with pressing questions such as: “How does social media shape the political arena?”, “How do people access and engage with political news online?”, “How has the internet changed political campaigning?”, and “What role do social network sites play in citizen mobilization?”"
 

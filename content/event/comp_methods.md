@@ -11,7 +11,7 @@ location: University of Bern
   #postcode: ''
   #country: 
 
-summary: "_Tutorial Group Leader_ Designed and taught Winter 2025 block-seminar that advanced students' knowledge of computational methods in communication science through the R programming language. Covered data wrangling (TidyVerse, BaseR), web scraping, API querying, data donations, text analysis (StringR, TidyText), supervised machine learning, topic modelling, and local LLM deployment. _Average teaching evaluation score:_ 5.19/6."
+summary: "_Tutorial Group Leader_ Designed and taught Winter 2025 block-seminar that advanced students' knowledge of computational methods in communication science through the R programming language. Covered data wrangling (TidyVerse, BaseR), web scraping, API querying, data donations, text analysis (StringR, TidyText), supervised machine learning, topic modelling, and local LLM deployment."
 
 abstract: "This intensive seminar introduced students to computational methods for analyzing communication data. Through a hands-on approach using R, students explored a variety of tools and techniques for gathering and analyzing digital data, including text analysis and machine learning. The course emphasized how these techniques can be applied to real-world problems in communication research."
 

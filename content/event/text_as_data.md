@@ -11,7 +11,7 @@ location: University of Bern
   #postcode: '94305'
   #country: United States
 
-summary: "_Instructor/Course Designer_ This course takes a hybrid approach to methodology and theory: it combines the teaching of R software with an introduction to text-as-data analyses, while simultaneously addressing major conversations about the study and role of news in our digital world._Average teaching evaluation score:_ 5.21/6."
+summary: "_Instructor/Course Designer_ This course takes a hybrid approach to methodology and theory: it combines the teaching of R software with an introduction to text-as-data analyses, while simultaneously addressing major conversations about the study and role of news in our digital world."
 
 Abstract: "How can we study online news in today’s interconnected society? This proseminar takes a hybrid approach to this question, exposing students both to the theoretical underpinnings of the study of news in communication science, as well as presenting them with the practical tools needed to conduct their own analyses. Throughout the proseminar, we will read and discuss a variety of empirical academic works in communication science, while simultaneously learning how to use R software tool for our own text-as-data analyses. On the practical side, students will be introduced to the basic functioning of R, to then be exposed to online data-scraping, data cleaning, and analysis through dictionary classification and basic applied machine learning methods. This proseminar is very much meant as an introduction, and therefore, no previous experience with R is needed. On the theoretical side, students will gain insights into how to engage critically with empirical social science."
 

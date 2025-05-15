@@ -5,7 +5,7 @@ event_url: ""
 
 location: University of Amsterdam
 
-summary: "_Tutorial Group Leader_ Led Fall 2024 tutorial group (~25 students) focused on applying advanced statistical models in the social sciences. _Average teaching evaluation score:_ 4.4/5."
+summary: "_Tutorial Group Leader_ Led Fall 2024 tutorial group (~25 students) focused on applying advanced statistical models in the social sciences."
 
 abstract: "This course provided students with hands-on experience in statistical reasoning for social science applications. The tutorials emphasized understanding and application of statistical models with a strong focus on interpretation and critical analysis of empirical findings."
 

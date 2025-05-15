@@ -5,7 +5,7 @@ event_url: ""
 
 location: University of Bern
 
-summary: "_Lecturer/Course Designer_ Designed and taught Spring 2023 methods course focused on automated content analysis using R. _Average teaching evaluation score:_ 5.39/6."
+summary: "_Lecturer/Course Designer_ Designed and taught Spring 2023 methods course focused on automated content analysis using R."
 
 abstract: "This course introduced students to key methods in automated content analysis using R. Students progressed from basic text wrangling to advanced topics such as machine learning, topic modelling, and sentiment analysis, emphasizing applications in communication research."
 

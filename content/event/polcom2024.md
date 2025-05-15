@@ -5,7 +5,7 @@ event_url: ""
 
 location: University of Amsterdam
 
-summary: "_Tutorial Group Leader_ Led two weekly tutorial groups (±50 students total) that advanced students' understanding of political communication and journalism. _Average teaching evaluation score:_ 4.41/5."
+summary: "_Tutorial Group Leader_ Led two weekly tutorial groups (±50 students total) that advanced students' understanding of political communication and journalism."
 
 abstract: "This tutorial deepened students’ understanding of political communication practices and journalistic principles in democratic societies. Through weekly readings, discussions, and exercises, students critically engaged with classic and contemporary research in the field."
 
