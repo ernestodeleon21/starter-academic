@@ -7,6 +7,12 @@ title: Ernesto de León # Website name
 baseurl: 'https://ernesto-deleon.com/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
+googleAnalytics: ""
+
+params:
+  marketing:
+    enableGoogleAnalytics: false
+
 ############################
 ## LANGUAGE
 ############################
@@ -31,7 +37,8 @@ module:
 
 enableGitInfo: false
 summaryLength: 30
-paginate: 10
+pagination:
+  pagerSize: 10
 enableEmoji: true
 enableRobotsTXT: true
 footnotereturnlinkcontents: <sup>^</sup>
