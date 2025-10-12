@@ -11,7 +11,7 @@ authors:
 - E. de León
 - A. Urman
 date: '2025-01-01'
-publishDate: '2025-04-21T16:27:14.008660Z'
+publishDate: '2025-10-12T08:36:17.857231Z'
 publication_types:
 - '2'
 publication: '*Mass Communication and Society*'

@@ -10,7 +10,7 @@ authors:
 - Michaela Maier
 - Silke Adam
 date: '2023-02-01'
-publishDate: '2025-04-21T16:27:14.105399Z'
+publishDate: '2025-10-12T08:36:17.932021Z'
 publication_types:
 - '2'
 publication: '*Social Science Computer Review*'

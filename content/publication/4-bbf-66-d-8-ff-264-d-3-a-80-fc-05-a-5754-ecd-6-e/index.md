@@ -12,7 +12,7 @@ authors:
 - Ernesto de León
 - Roberto Ulloa
 date: '2024-10-01'
-publishDate: '2025-04-21T16:27:14.040349Z'
+publishDate: '2025-10-12T08:36:17.886526Z'
 publication_types:
 - '2'
 publication: '*Social Science Computer Review*'

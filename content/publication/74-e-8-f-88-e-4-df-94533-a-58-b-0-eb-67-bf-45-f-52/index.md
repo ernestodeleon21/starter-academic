@@ -4,7 +4,7 @@ title: 'On issue survival: News media and how political issues remain salient in
 authors:
 - Ernesto de León
 date: '2023-07-01'
-publishDate: '2025-04-21T16:27:14.068639Z'
+publishDate: '2025-10-12T08:36:17.912808Z'
 publication_types:
 - '2'
 publication: '*International Journal of Public Opinion Research*'

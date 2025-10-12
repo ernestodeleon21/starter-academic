@@ -8,7 +8,7 @@ authors:
 - Aleksandra Urman
 - Silke Adam
 date: '2022-04-01'
-publishDate: '2025-04-21T16:27:14.115889Z'
+publishDate: '2025-10-12T08:36:17.939885Z'
 publication_types:
 - '2'
 publication: '*The International Journal of Press/Politics*'

@@ -6,7 +6,7 @@ authors:
 - S. Vermeer
 - D. Trilling
 date: '2023-01-01'
-publishDate: '2025-04-21T16:27:14.061140Z'
+publishDate: '2025-10-12T08:36:17.906143Z'
 publication_types:
 - '2'
 publication: '*Computational Communication Research*'

@@ -3,7 +3,7 @@ title: Hyperpartisan News
 authors:
 - Ernesto de León
 date: '2024-09-01'
-publishDate: '2025-04-21T16:27:14.047605Z'
+publishDate: '2025-10-12T08:36:17.893472Z'
 publication_types:
 - '2'
 publication: '**'
