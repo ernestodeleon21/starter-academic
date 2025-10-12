@@ -1,14 +1,16 @@
 [build]
-  command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.148.0"   # latest stable extended Hugo
+  HUGO_VERSION = "0.148.0"
   HUGO_EXTENDED = "true"
   HUGO_ENABLEGITINFO = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"
+  # Optional: set your live site URL here if needed
+  # URL = "https://yoursite.com"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
