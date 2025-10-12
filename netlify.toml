@@ -3,11 +3,11 @@
   publish = "public"
 
 [build.environment]
-  HUGO_VERSION = "0.135.0"
+  HUGO_VERSION = "0.119.0"
   HUGO_EXTENDED = "true"
   HUGO_ENABLEGITINFO = "true"
 
-[context.production.environment]
+[context.production.environmenÍt]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
