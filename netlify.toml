@@ -7,7 +7,7 @@
   HUGO_EXTENDED = "true"
   HUGO_ENABLEGITINFO = "true"
 
-[context.production.environmenÍt]
+[context.production.environment]
   HUGO_ENV = "production"
 
 [context.deploy-preview]
