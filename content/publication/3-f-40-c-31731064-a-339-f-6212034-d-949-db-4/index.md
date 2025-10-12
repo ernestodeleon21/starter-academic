@@ -11,29 +11,10 @@ authors:
 date: '2025-05-01'
 publishDate: '2025-10-12T08:40:56.412416Z'
 publication_types:
-- article-journal
+- '2'
 publication: '*Political Communication*'
-doi: 10.1080/10584609.2025.2502401
-abstract: How we perceive the public opinion climate can have important consequences
-  on our own opinions and behaviors. Such perceptions are especially relevant during
-  moments of widespread crisis, as they may influence support and compliance with
-  crisis response measures. In this paper, we address what factors inform misperceptions
-  of public opinion during these important moments. We focus on two complementary
-  processes, internal and external crisis information processing, to explain variation
-  in public opinion misperceptions of three measures during the COVID-19 pandemic
-  (masking, use of a contact tracing app, and vaccination). Analyses of 82 weekly
-  waves of longitudinal rolling cross-sectional surveys of the Swiss population during
-  two years of the pandemic (N = 36,667) demonstrate that individuals regularly underestimated
-  the popularity of these measures. We find that those who were in the opinion minority
-  (usually those strongly opposed to these measures) had less accurate estimations
-  of public opinion. News media played an important role for misperceptions. When
-  it comes to the correction of misperceptions, individuals reporting to be regular
-  news readers were more likely to have more accurate perceptions of public opinion.
-  Combining the survey data with measures of media salience across news media published
-  during this period, ARIMA time series modeling shows that the salience of measures
-  in the media affects public opinion misperceptions for app usage and masking. Implications
-  for the field of political communication are discussed both in the context of the
-  COVID-19 pandemic, and for crises more generally.
+doi: https://doi.org/10.1080/10584609.2025.2502401
+abstract: ''
 tags:
 - COVID-19
 - longitudinal analysis
@@ -42,4 +23,5 @@ tags:
 - public health
 - public opinion
 - social norms
+url_pdf: https://doi.org/10.1080/10584609.2025.2502401
 ---

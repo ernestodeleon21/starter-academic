@@ -13,25 +13,25 @@ authors:
 date: '2025-04-01'
 publishDate: '2025-10-12T08:40:56.426107Z'
 publication_types:
-- article-journal
-publication: '*Quality and Quantity*'
-doi: 10.1007/s11135-024-02034-1
-abstract: The rise of populist radical right (PRR) ideas stresses the importance of
-  understanding how individuals engage with PRR content online. However, this task
-  is complicated by the variety of channels through which such engagement can take
-  place. In this article, we systematically compare computational approaches for detecting
-  PRR content in textual data. Using 66 dictionary, classic supervised machine learning,
-  and deep learning (DL) models, we compare how these distinct approaches perform
-  on the PRR detection task for three Germanophone test datasets and how their performance
-  is affected by different modes of text preprocessing. In addition to individual
-  models, we examine the performance of 330 ensemble models combining the above-mentioned
-  approaches for the dataset with a particularly high volume of noise. Our findings
-  demonstrate that the DL models, in combination with more computationally intense
-  forms of preprocessing, show the best performance among the individual models, but
-  it remains suboptimal in the case of more noisy datasets. While the use of ensemble
-  models shows some improvement for specific modes of preprocessing, overall, it mostly
-  remains on par with individual DL models, thus stressing the challenging nature
-  of computational detection of PRR content.
+- '2'
+publication: '*Quality &amp; Quantity*'
+doi: https://doi.org/10.1007/s11135-024-02034-1
+abstract: "Abstract\n          The rise of populist radical right (PRR) ideas stresses\
+  \ the importance of understanding how individuals engage with PRR content online.\
+  \ However, this task is complicated by the variety of channels through which such\
+  \ engagement can take place. In this article, we systematically compare computational\
+  \ approaches for detecting PRR content in textual data. Using 66 dictionary, classic\
+  \ supervised machine learning, and deep learning (DL) models, we compare how these\
+  \ distinct approaches perform on the PRR detection task for three Germanophone test\
+  \ datasets and how their performance is affected by different modes of text preprocessing.\
+  \ In addition to individual models, we examine the performance of 330 ensemble models\
+  \ combining the above-mentioned approaches for the dataset with a particularly high\
+  \ volume of noise. Our findings demonstrate that the DL models, in combination with\
+  \ more computationally intense forms of preprocessing, show the best performance\
+  \ among the individual models, but it remains suboptimal in the case of more noisy\
+  \ datasets. While the use of ensemble models shows some improvement for specific\
+  \ modes of preprocessing, overall, it mostly remains on par with individual DL models,\
+  \ thus stressing the challenging nature of computational detection of PRR content."
 tags:
 - Automated content analysis
 - Dictionaries
@@ -39,4 +39,5 @@ tags:
 - Neural networks
 - Populist radical right
 - Supervised machine learning
+url_pdf: https://doi.org/10.1007/s11135-024-02034-1
 ---

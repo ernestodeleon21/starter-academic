@@ -13,9 +13,9 @@ authors:
 date: '2024-11-01'
 publishDate: '2025-10-12T08:40:56.434192Z'
 publication_types:
-- article-journal
-publication: '*PLoS ONE*'
-doi: 10.1371/journal.pone.0312865
+- '2'
+publication: '*PLOS ONE*'
+doi: https://doi.org/10.1371/journal.pone.0312865
 abstract: To understand and measure political information consumption in the high-choice
   media environment, we need new methods to trace individual interactions with online
   content and novel techniques to analyse and detect politics-related information.
@@ -29,4 +29,5 @@ abstract: To understand and measure political information consumption in the hig
   of preprocessing on model performance, with the best results for less noisy data
   being achieved by deep learning- and classic machine learning-based models, in contrast
   to the more robust performance of dictionary-based models on noisy data.
+url_pdf: https://doi.org/10.1371/journal.pone.0312865
 ---
